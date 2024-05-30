@@ -1,0 +1,5 @@
+../Core/Src/stm32h7xx_hal_msp.c:66:6:HAL_MspInit	8	static
+../Core/Src/stm32h7xx_hal_msp.c:88:6:HAL_DAC_MspInit	48	static
+../Core/Src/stm32h7xx_hal_msp.c:159:6:HAL_DAC_MspDeInit	8	static
+../Core/Src/stm32h7xx_hal_msp.c:191:6:HAL_TIM_Base_MspInit	8	static
+../Core/Src/stm32h7xx_hal_msp.c:213:6:HAL_TIM_Base_MspDeInit	0	static

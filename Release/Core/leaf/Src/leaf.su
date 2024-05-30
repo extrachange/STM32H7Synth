@@ -1,0 +1,6 @@
+../Core/leaf/Src/leaf.c:58:6:LEAF_defaultErrorCallback	0	static
+../Core/leaf/Src/leaf.c:21:6:LEAF_init	24	static
+../Core/leaf/Src/leaf.c:46:6:LEAF_setSampleRate	0	static
+../Core/leaf/Src/leaf.c:53:8:LEAF_getSampleRate	0	static
+../Core/leaf/Src/leaf.c:64:6:LEAF_internalErrorCallback	4	static
+../Core/leaf/Src/leaf.c:70:6:LEAF_setErrorCallback	0	static

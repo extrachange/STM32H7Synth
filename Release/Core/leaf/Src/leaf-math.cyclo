@@ -1,0 +1,15 @@
+../Core/leaf/Src/leaf-math.c:25:6:LEAF_generate_sine	2
+../Core/leaf/Src/leaf-math.c:35:6:LEAF_generate_sawtooth	3
+../Core/leaf/Src/leaf-math.c:57:6:LEAF_generate_triangle	3
+../Core/leaf/Src/leaf-math.c:86:6:LEAF_generate_square	3
+../Core/leaf/Src/leaf-math.c:110:6:LEAF_generate_exp	2
+../Core/leaf/Src/leaf-math.c:124:6:LEAF_generate_table_skew_non_sym_double	2
+../Core/leaf/Src/leaf-math.c:139:6:LEAF_generate_table_skew_non_sym	2
+../Core/leaf/Src/leaf-math.c:154:6:LEAF_generate_atodb	2
+../Core/leaf/Src/leaf-math.c:165:6:LEAF_generate_dbtoa	2
+../Core/leaf/Src/leaf-math.c:177:6:LEAF_generate_atodbPositiveClipped	3
+../Core/leaf/Src/leaf-math.c:192:6:LEAF_generate_mtof	2
+../Core/leaf/Src/leaf-math.c:205:6:LEAF_generate_ftom	2
+../Core/leaf/Src/leaf-math.c:219:8:fast_sinf2	2
+../Core/leaf/Src/leaf-math.c:246:6:place_step_dd	2
+../Core/leaf/Src/leaf-math.c:270:6:place_slope_dd	2

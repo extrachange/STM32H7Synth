@@ -1,0 +1,5 @@
+../Core/leaf/Externals/d_fft_mayer.c:221:6:mayer_fht	16
+../Core/leaf/Externals/d_fft_mayer.c:370:6:mayer_fft	2
+../Core/leaf/Externals/d_fft_mayer.c:385:6:mayer_ifft	2
+../Core/leaf/Externals/d_fft_mayer.c:400:6:mayer_realfft	2
+../Core/leaf/Externals/d_fft_mayer.c:413:6:mayer_realifft	2

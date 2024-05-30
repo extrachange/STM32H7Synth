@@ -1,0 +1,13 @@
+../Core/Src/B3_Voice.c:17:6:SineOsc_tick	2
+../Core/Src/B3_Voice.c:27:6:SineOsc_init	1
+../Core/Src/B3_Voice.c:34:6:SineOsc_setFreq	1
+../Core/Src/B3_Voice.c:39:6:SineOsc9x_tick	19
+../Core/Src/B3_Voice.c:61:6:SineOsc9x_init	1
+../Core/Src/B3_Voice.c:73:6:SineOsc9x_setFreq	1
+../Core/Src/B3_Voice.c:93:6:SineOsc9x_setVol	1
+../Core/Src/B3_Voice.c:104:6:Envelope_tick	31
+../Core/Src/B3_Voice.c:129:6:Envelope_init	1
+../Core/Src/B3_Voice.c:137:6:Envelope_setSpeed	2
+../Core/Src/B3_Voice.c:151:6:stDelay_tick	6
+../Core/Src/B3_Voice.c:182:6:stDelay_init	1
+../Core/Src/B3_Voice.c:195:6:stDelay_timeMod	1

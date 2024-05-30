@@ -1,0 +1,7 @@
+../Core/Src/midi.c:13:5:voicePool_noteOn	16	static
+../Core/Src/midi.c:56:6:voicePool_noteOff	0	static
+../Core/Src/midi.c:65:6:voicePool_panic	0	static
+../Core/Src/midi.c:71:6:midi_cc	0	static
+../Core/Src/midi.c:86:6:midi_setTiming	0	static
+../Core/Src/midi.c:91:6:midi_playFile	8	static
+../Core/Src/midi.c:96:6:midi_playFile_tick	32	static

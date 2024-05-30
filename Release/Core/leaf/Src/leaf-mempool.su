@@ -1,0 +1,17 @@
+../Core/leaf/Src/leaf-mempool.c:432:20:delink_node	0	static
+../Core/leaf/Src/leaf-mempool.c:67:6:mpool_create	8	static
+../Core/leaf/Src/leaf-mempool.c:83:6:leaf_pool_init	8	static
+../Core/leaf/Src/leaf-mempool.c:93:7:mpool_alloc	32	static
+../Core/leaf/Src/leaf-mempool.c:200:7:mpool_calloc	24	static
+../Core/leaf/Src/leaf-mempool.c:295:7:leaf_alloc	0	static
+../Core/leaf/Src/leaf-mempool.c:301:7:leaf_calloc	0	static
+../Core/leaf/Src/leaf-mempool.c:307:6:mpool_free	24	static
+../Core/leaf/Src/leaf-mempool.c:383:6:leaf_free	0	static
+../Core/leaf/Src/leaf-mempool.c:388:8:mpool_get_size	0	static
+../Core/leaf/Src/leaf-mempool.c:393:8:mpool_get_used	0	static
+../Core/leaf/Src/leaf-mempool.c:398:8:leaf_pool_get_size	0	static
+../Core/leaf/Src/leaf-mempool.c:403:8:leaf_pool_get_used	0	static
+../Core/leaf/Src/leaf-mempool.c:408:7:leaf_pool_get_pool	0	static
+../Core/leaf/Src/leaf-mempool.c:456:6:tMempool_free	0	static
+../Core/leaf/Src/leaf-mempool.c:463:9:tMempool_initToPool	24	static
+../Core/leaf/Src/leaf-mempool.c:451:6:tMempool_init	0	static
